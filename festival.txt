@@ -1,0 +1,263 @@
+This video is sponsored by the BenQ USB Screenbar Lamp. Setup is
+straightfoward. Just secure the lamp to its counterbalance, plug the provided
+USB cable into any available port, and secure the screenbar on top of your
+monitor. I've personally found the screenbar most useful for gaming or video
+editing at night, where I don't want to strain my eyes from my monitors' blue
+light . --spongebob my eyes == Because I need to maintain color accuracy in OBS
+and kdenlive for my videos, I could never really use software nightmode.
+Therefore, the warmer colors of screenbar offers up a nice hardware solution .
+I'll be posting links to the Amazon product page and BenQ's website in the
+video description. 
+
+
+Like many others, I've been quarantined at home for months due to recent global
+events. During this time, Valve has decided to host seasonal games festivals,
+featuring dozens of limited time demos. With a week to burn, I played through
+as many of these demos as possible in order discuss the ones I've enjoyed
+the most.  Given the limited scope of these trials, I can only generally talk
+about the individual strengths and weaknesses of each game.
+
+
+Game #1: Trepang2
+
+Okay, I'm technically cheating, since this demo came out in December 2019.  But
+it was featured in the summer festival, so it still counts. Trepang2 is the
+result of translating gun fu action cinema into a video game. Bullets and
+debree fly all over the screen and pumping lead into enemies contorts their
+bodies, making them spew out blood and gibs.  In addition to your guns, you
+have a stealth cloak, allowing you to takedown individual soldiers. Sneak up on
+an enemy, use them as a hostage, and snap their neck when you're done. When the
+combat akk comes together, it's a sight to behold, as you embark on a major
+power fantasy.
+
+The major strength of combat lies in the constant ebb and flow of its pacing.
+The methodical nature of stealth and bullet time give you small windows to plan
+out ambushes, breaking up the otherwise relentless pace of firefights.  Once
+you've finished the introductory level, I'd strongly recommend testing your
+skills in the horde mode, as the combat loop becomes distilled to one
+gloriously hectic arena. 
+
+Okay, now let's address the elephant in the room. Yes, I'm aware that F.E.A.R
+exists and tried gun fu combat 15 years earlier. However, Point Man's limited
+mobility options prevented you from performing the acrobatic stunts critical to
+this genre. But even ignoring that, F.E.A.R had some severe balance issues that
+Trepang2 improves on. For starters, you can't carry around 10 instant
+activation medkits that can carry you through any fight. Secondly, Trepang2's
+slo-mo recharges on kills, not purely over time. So this forces you to be more
+aggressive to actively maintain your slo-mo, whereas you could sit in a corner
+in F.E.A.R until the power is ready. 
+
+In the final release of Trepang2, I would like to see some more enemy variety
+than just paramilitary soldiers. Maybe some melee pressure units like hounds or
+super heavy mechs to act as constant threats. Because as it is, I feel that
+it's a bit too easy to overwhelm the AI given your suite of tools. 
+
+Game #2: Ultrakill
+
+Devil May Quake. What would happen if you took the combo frenzy nature of a
+spectacle fighter and combined it with Quake's frenetic FPS combat? Well, you'd
+get something like Ultrakill.
+
+The goal here is not to just kill, but to do it as stylishly as possible to
+rack up a high score. 
+
+Your character has incredible mobility, being able to triple dash, slide around
+quickly, and perform triple wall jumps. Oh, and you can also butt stomp foes
+and parry projectiles with your fist.
+
+The weapons similarly promote skillful play, as they all feature a variety of
+interesting firing modes. The pistol has a charged shot that pierces through
+enemies, as well as the marksman shot that reflects a bullet to an enemy crit
+spot if you shoot a flipped coin. The shotgun has a grenade launcher and a
+charged blast that can explode if overpumped. Finally, you've got a nailgun
+with tracking darts.
+
+Thus, when given all of these tools, you need to get creative and constantly
+mix up your playstyle in order to get higher ranks. For example, you
+can dash to a group of melee fodder, butt stomp them into the air, and finish
+them off with a shotgun grenade to get an instant SSSadistic rank. 
+
+The only weapon I've found little use for is the pistol marksman mod. The
+damage bonus from the crit just isn't high enough to compensate for the easily
+whiffable coin toss. Reload cancelling the shotgun is just a much more reliable
+source of DPS.
+
+I'd also like to see a more descriptive tutorial in the final game, so I could
+immediately get a better understanding of the mechanical interactions between
+movement and weapons, kinda similar to what Doom Eternal does. 
+
+Ultimately, Ultrakill is a blast to play, thanks to its fast skill-based combat
+and emphasis on stylish kills.
+
+Game #3: Fae Tactics
+
+Growing up, I played a lot of Final Fantasy Tactics advanced on the GBA.
+Playing the demo for Fae Tactics brings back those childhood memories with its
+party battles and turn-based grid combat. 
+
+Outside of the nostalgia, Fae Tactics has some interesting twists to the
+classic strategy RPG. Units have unique buffs that they can apply to nearby
+allies, from cloaking to aggro draw. Placing your aquatic unit in water will
+double his damage and cause him to heal over time. Doing a ranged attack on a
+distant enemy while you have a melee unit next to them will activate a combo,
+making your melee ally attack even if it's not their turn. 
+
+When all combined together, Fae Tactics gives players plenty of interesting
+tools to plan out their battles even though it doesn't have spell lists that
+span pages. Furthermore, each fight has an unique gimmick that changes the way
+you plan, from giant enemy cannons to fire buff totems. 
+
+I think my biggest issue with the game currently is the levelling system. I
+would've like to see more than 3 basic stat upgrades for each character.
+Perhaps job specialization like in Final Fantasy Tactics, although that might
+be in the full game. 
+
+Game #4: Ghostrunner
+
+Ghostrunner is a first person platformer with parkour and melee combat.  The
+name of the game here is speedrunning, as you're always looking to optimize the
+time of your runs. From learning new movement techs like crouch jumping to
+sequence breaking platforming sections, you're encouraged to experiment with
+your tools in order to play faster and smarter. The flexibility of this
+mobility system is easily the game's greatest strength, as its dash and tether
+mechanics are forgiving enough to let players correct mistakes , while still
+encouraging them to pursue mechanical mastery .  
+
+Despite this, Ghostrunner has some odd design decisions that hamper the
+speedrunning experience, with the most annoying being the unskippable
+cutscenes. Now, a 20 second intro cinematic doesn't sound terrible, but if
+you're attempting to speedrun the level and perfect your time, those twenty
+seconds add up considerably on replays.  Similarly, you have to sit
+through an ending cutscene to see what your run's overall time is. If these
+cinematics are a way to mask loading times, then I'd rather just have a longer
+upfront load screen so I don't have to deal with these cutscenes every time I
+want to practice.
+
+Regarding combat, I'd like to see some visual changes to enhance player
+feedback.  An hitmarker of some kind would be the biggest improvement, as it'd
+let me quickly determine if I've overshot an enemy with my slash dash or killed
+them. Because as it is, it can be easy to tune out their death cries with the
+background synth music and the speed-oriented nature of the game. 
+
+
+Game #5: Shady Knight
+
+Shady Knight is a first person slasher with platforming, similar to 2006's Dark
+Messiah of Might and Magic. For those of you not familiar with that game,
+Shady Knight is a melee sandbox where you're given a handful of combat tools
+and told to go ham on enemies.  Your sword can block incoming blows with a
+timed parry, be charged to deal increased damage, or be thrown to target ranged
+foes. Kicking will disrupt enemies and create distance between the two of you,
+and sliding will increase your speed and allow you to aim your kick more
+precisely.  Alongside that, the environment is filled with hazards, from spiked
+walls to falling crates.  Given all of these options, you can dispatch foes in
+practically any way you see fit. 
+
+From kicking enemies into spiked traps to headshotting them with a sword throw,
+the game always feels great to play due to its hitstop, slowmotion kills, and
+exagerrated animations. That said, the headbobbing can be a little extreme,
+especially during sliding, so I would like to see an option to tone it down. 
+
+The platforming...exists. Given the lofi artstyle and lack of visible player
+feet, it can be hard to determine object distances and where to orient
+yourself. In general, it feels a bit antithetical to the freeflow combat, as
+you're usually funneled down a singular route. While alternate paths would
+help, the platforming would still be underwhelming when compared to the combat. 
+
+The biggest concern I have right now with Shady Knight is the amount of variety
+it'll have. Playing on similar looking towers over and over again becomes
+repetitive after a while. Some more environmental variety would go a long way
+into keeping the experience fresh on repeated playthroughs.
+
+Game #6: Golden Light ???
+
+And then we have Golden Light, which I can best describe as slavjank mindfuck.
+I'm deeply torn between hating this game and loving it, and replaying the demo
+has only left me more polarized. In general, the horror is excellent.  Mimics
+move just outside of your field of view only to pounce when you've let your
+guard down, doors will open and close at random, and heavy monster breaths
+pollute the hallways. As a result, exploration is always tense, due to this
+constant sense of dread.
+
+Combat is a struggle due to the aggressive enemy AI and the tight corridors
+that restrict your mobility. Your melee weapons take multiple hits to kill a
+single foe and break easily, rendering them useless. Therefore, it's
+mostly a last resort option.
+
+When all taken in, Golden Light is an almost cathartic
+experience.  
+
+However, its technical issues are quite severe. Loading times are extreme, with
+floors taking up to half a minute to load on an SSD. Given the relatively small
+level sizes and low resolution textures, I'm not sure what could be causing
+such a lengthy delay. Secondly, camera control is awful. Unlike most other
+first person games, the camera turn rate is capped. While this isn't a problem
+in itself, when combined with the heavy head bobbing and object motion, the
+game becomes nauseating to play. 
+
+But if those issues are ironed out, I think Golden Light will be a fascinating
+little gem. 
+
+Honorable Mention: HROT
+
+Before I close off this video, I want to cover one final game that has a lot of
+potential while having some fairly significant problems. HROT is a retro-styled
+FPS set in 1980s Soviet Russia. Regarding the good, it has incredible
+atmosphere thanks to the desaturated visuals, moody ambient music, and its
+bleak industrial setting. The enemy design is also fantastic, with some truly
+nightmarish creations like a taxidermied horse wearing a gas mask, or a flying
+zombified Lenin head.  
+
+And now we get to the bad. The ammo economy is broken. For the first part of
+the level, you barely have enough ammo to kill enemies with the kalach SMG and
+pistol. Even when finding secret stashes, I had resort to using melee, which
+often got me killed due to very hard's damage scaling. However, once you get
+the brokovnice shotgun, you'll never need to worry about ammo again, due to its
+abundant ammo drops. So if HROT wants to focus on ammo scarcity, then it needs
+to have far less plentiful shotgun ammo.  RNG also seems to be a major problem,
+as I'll have mobs spawn in at random after I've cleared an arena, with there
+being no clear triggers for them. Additionally, if one of the shotgunner
+enemies drops his weapon upon death, then entire run becomes significantly
+easier. 
+
+
+Finally, the weapon sounds are bad, with the shotgun and smg being particularly
+terrible. They are barely audible and sound completely flat, lacking any sort
+of punch or kick. I'm not an audio engineer, but I went into the game files and
+edited them in audacity, amplifying the sound as well as adding in some bass,
+treble, crunch distortion, and reverb to make guns sound a bit beefier. The
+biggest limitation to this is HROT's strict file size restrictions, as if the
+modified sound isn't EXACTLY the same byte size as the original, then game will
+crash on launch. Therefore, I can't layer audio or use high quality assets. But
+the point is, if I can do this in a few hours with public domain audio clips
+and a free sound editor, the developer can and should do so too. It's not that
+hard.
+
+
+
+Conclusion:
+
+Overall, I'm impressed by what I saw from the Steam games festival. I'm glad
+Valve's taken the time to spotlight these indie titles, as they would've gotten
+lost in the sea of new releases otherwise. I'm hoping this seasonal festival
+event continues, but in the future, I'd like to get more than a week to try out
+the demos. Even increasing it to 10 days or two weeks would give me a lot more
+time to digest and not feel quite as pressure to rush through them. 
+
+Thank you very much for watching. This style of video was a little bit
+different, but I enjoyed covering a bunch of smaller titles due to the change
+of pace from one longer critique. Yes, the Borderlands 3 video is next. No, I
+will not cover the new DLC, as it physically pains me to play the game now.
+Following that, the Doom Eternal video. Past those, I don't know what'll be
+coming up. Probably a combination of working through orphaned projects and
+doing video restrospectives alongside some more linux tutorials. I'll have to
+take another look at my footage archives to be sure.
+
+If you'd like to stay up to date on channel news, you can follow me on Twitter
+@SquidTheSid1 or join the Squidcord discord server. Finally, contributions to
+my Patreon page over at patreon.com/squidthesid are always welcome, if you can
+financially afford to do so.
+
+As always, stay frosty. 
+
+
